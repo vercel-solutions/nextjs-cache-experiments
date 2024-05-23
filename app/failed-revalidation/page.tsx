@@ -46,7 +46,7 @@ export default async function Page() {
           revalidation fails it will keep revalidating as you refresh,
           increasing the timer more times.
         </li>
-        <li>The UI never breaks if a revalidation fails</li>
+        <li>The UI never breaks if a revalidation fails.</li>
       </ul>
     </main>
   );
